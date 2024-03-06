@@ -1,0 +1,3 @@
+*.cql linguist-language=CQL
+*.sql linguist-language=SQL
+
