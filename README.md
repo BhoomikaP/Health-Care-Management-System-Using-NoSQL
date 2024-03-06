@@ -1,5 +1,7 @@
 # Health Care Management System Using NoSQL
 
+![project_logo](./healthcare-graph-database-x300.jpg)
+
 Welcome to the Health Care Management System Using NoSQL project! 🏥
 
 This project focuses on the management and analysis of healthcare data using NoSQL databases. A healthcare dataset was prepared and analyzed to obtain performance insights into various NoSQL databases deployed on AWS. Specifically, a Spark cluster was utilized to run the MongoDB and Cassandra shells on the AWS infrastructure.
